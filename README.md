@@ -1,1 +1,1 @@
-# Fullstack-Development-with-Django-and-React
+# Fullstack Development with Django and React
